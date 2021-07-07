@@ -1,4 +1,5 @@
 # > Scholar
+DOMAIN,scholar.google.com,Scholar
 DOMAIN-SUFFIX,acm.org,Scholar
 DOMAIN-SUFFIX,acs.org,Scholar
 DOMAIN-SUFFIX,aip.org,Scholar
@@ -49,6 +50,7 @@ DOMAIN-SUFFIX,rsc.org,Scholar
 DOMAIN-SUFFIX,sagepub.com,Scholar
 DOMAIN-SUFFIX,sciencedirect.com,Scholar
 DOMAIN-SUFFIX,sciencemag.org,Scholar
+DOMAIN-SUFFIX,scitation.org,Scholar
 DOMAIN-SUFFIX,sci-hub.tw,Scholar
 DOMAIN-SUFFIX,scopus.com,Scholar
 DOMAIN-SUFFIX,siam.org,Scholar
